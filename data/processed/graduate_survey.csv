@@ -1,0 +1,21 @@
+response_id,degree,graduation_year,field_of_study,location,employment_status,python_score,sql_score,excel_score,communication_score,data_analysis_score,ai_tools_score,project_mgmt_score,problem_solving_score,chatgpt_usage_freq,ai_copilot_usage,believes_ai_improves_employability,believes_ai_threatens_jobs,career_confidence_score,perceived_top_skill_gap
+R001,BCA,2024,Computer Science,Bengaluru,Seeking employment,4,2,3,4,3,3,2,4,Daily,Yes,Yes,Yes,65,SQL & Cloud Tools
+R002,B.Tech,2025,Computer Science,Hyderabad,Final year student,4,3,4,3,4,4,3,4,Daily,Yes,Yes,No,80,System Architecture
+R003,B.Com,2024,Commerce,Mumbai,Employed (Entry level),1,2,4,4,2,2,3,3,Weekly,No,Yes,Yes,55,SQL & Data Analytics
+R004,BBA,2024,Business Administration,Delhi NCR,Seeking employment,2,1,4,4,2,3,4,3,Daily,No,Yes,Yes,60,Power BI & Advanced Excel
+R005,B.Sc,2025,Data Science,Pune,Final year student,4,4,3,3,4,4,2,4,Daily,Yes,Yes,No,85,Business Communication
+R006,BA,2024,English / Media,Kolkata,Employed (Entry level),1,1,2,5,1,3,3,3,Daily,No,No,Yes,50,Data Literacy
+R007,B.Tech,2024,Electronics,Chennai,Employed (Entry level),3,3,4,3,3,3,3,4,Weekly,Yes,Yes,No,70,AI Tools Integration
+R008,BCA,2025,Information Technology,Ahmedabad,Final year student,3,2,3,3,3,4,2,3,Daily,Yes,Yes,Yes,60,SQL & Database Design
+R009,B.Com,2025,Finance,Bengaluru,Final year student,1,2,4,4,3,2,3,3,Weekly,No,Yes,No,65,Python for Finance
+R010,B.Tech,2024,Information Technology,Noida,Seeking employment,4,3,3,3,3,4,2,4,Daily,Yes,Yes,Yes,60,System Design & Security
+R011,BBA,2024,Marketing,Mumbai,Employed (Entry level),1,1,3,5,2,4,3,3,Daily,No,Yes,Yes,70,Data-Driven Marketing
+R012,B.Sc,2024,Mathematics,Jaipur,Seeking employment,3,3,4,3,4,2,2,4,Weekly,No,Yes,No,55,AI Readiness & Prompting
+R013,B.Tech,2025,Computer Science,Pune,Final year student,5,4,4,4,4,5,3,5,Daily,Yes,Yes,No,90,Advanced Cloud Architecture
+R014,BCA,2024,Computer Applications,Lucknow,Seeking employment,2,2,3,3,2,3,2,3,Daily,No,Yes,Yes,45,SQL & Technical Projects
+R015,B.Com,2024,Accounting,Kochi,Employed (Entry level),1,1,4,4,2,2,3,3,Rarely,No,Yes,No,60,Automation Tools
+R016,BA,2025,Psychology / HR,Delhi,Final year student,1,1,2,5,1,3,4,3,Daily,No,Yes,Yes,65,HR Analytics & Data
+R017,B.Tech,2024,Mechanical,Coimbatore,Employed (Entry level),2,2,3,3,3,3,3,4,Weekly,No,Yes,Yes,55,Coding & Software Tools
+R018,BBA,2025,International Business,Hyderabad,Final year student,2,1,4,4,3,3,4,3,Daily,No,Yes,No,70,SQL & Financial Modeling
+R019,B.Sc,2024,Computer Science,Indore,Seeking employment,4,3,3,3,3,4,2,4,Daily,Yes,Yes,Yes,60,Practical Project Portfolio
+R020,BCA,2025,Computer Applications,Chandigarh,Final year student,3,2,3,4,3,3,3,3,Daily,Yes,Yes,No,65,Advanced SQL

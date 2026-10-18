@@ -1,0 +1,114 @@
+occupation_id,occupation,sector,task_id,task_name,ai_replaceability,human_judgement,social_interaction,creativity,technical_complexity,ai_exposure_score
+1,Junior Developer,Technology,101,Writing boilerplate code,3.5,1.0,0.5,1.0,2.5,0.78
+1,Junior Developer,Technology,102,Debugging runtime syntax errors,3.2,1.5,0.5,1.0,3.0,0.72
+1,Junior Developer,Technology,103,Writing unit test suites,3.6,1.0,0.5,1.0,2.5,0.80
+1,Junior Developer,Technology,104,System architecture design,1.0,3.8,2.5,3.5,4.0,0.22
+1,Junior Developer,Technology,105,Reviewing AI-generated code for security,1.2,3.9,2.0,2.5,3.8,0.25
+1,Junior Developer,Technology,106,Cross-functional team communication,0.5,3.5,4.0,2.5,2.0,0.12
+2,QA Tester,Technology,201,Executing manual test scripts,3.8,0.8,0.5,0.5,1.5,0.85
+2,QA Tester,Technology,202,Writing automated test scripts,3.2,1.8,1.0,1.5,2.8,0.70
+2,QA Tester,Technology,203,Bug triage and edge-case discovery,1.5,3.5,2.0,2.8,3.2,0.32
+2,QA Tester,Technology,204,User acceptance testing coordination,1.0,3.2,3.8,2.0,2.0,0.20
+3,Frontend Developer,Technology,301,Translating designs into HTML/CSS,3.4,1.2,0.8,2.0,2.5,0.75
+3,Frontend Developer,Technology,302,Component state management,2.2,2.5,1.0,2.0,3.2,0.48
+3,Frontend Developer,Technology,303,UX micro-interaction animation,1.8,3.0,1.5,3.5,3.0,0.38
+3,Frontend Developer,Technology,304,Accessibility audit & compliance,2.0,3.2,1.5,1.8,3.2,0.42
+4,Cloud Support Engineer,Technology,401,Monitoring server health logs,3.5,1.0,0.5,0.5,2.0,0.78
+4,Cloud Support Engineer,Technology,402,Incident triage & root cause analysis,1.8,3.6,2.0,2.2,3.8,0.38
+4,Cloud Support Engineer,Technology,403,Client escalation handling,0.8,3.5,3.8,1.5,2.5,0.18
+5,Systems Administrator,Technology,501,User access provisioning,3.6,0.8,1.0,0.5,1.8,0.82
+5,Systems Administrator,Technology,502,Patch management script execution,3.4,1.2,0.5,0.8,2.5,0.76
+5,Systems Administrator,Technology,503,Network topology optimization,1.4,3.6,1.8,2.5,3.9,0.30
+6,Business Analyst,Business,601,Synthesizing survey response data,3.2,1.5,1.0,1.5,2.5,0.70
+6,Business Analyst,Business,602,Gathering client requirements,0.8,3.8,4.0,2.5,2.5,0.18
+6,Business Analyst,Business,603,Process mapping and workflow modeling,2.0,2.8,2.5,2.5,3.0,0.44
+6,Business Analyst,Business,604,Formulating strategic recommendations,1.0,3.9,3.5,3.2,3.0,0.22
+7,Operations Associate,Business,701,Data entry across spreadsheets,3.9,0.5,0.5,0.2,1.0,0.88
+7,Operations Associate,Business,702,Daily inventory status reporting,3.5,1.0,1.0,0.8,1.8,0.78
+7,Operations Associate,Business,703,Vendor negotiation & relationship management,0.5,3.8,4.0,2.8,2.2,0.12
+7,Operations Associate,Business,704,Process bottleneck troubleshooting,1.5,3.5,2.5,2.8,2.8,0.32
+8,Product Operations Coordinator,Business,801,Drafting product release notes,3.3,1.2,1.2,1.8,2.0,0.73
+8,Product Operations Coordinator,Business,802,Tracking feature sprint velocity,2.8,1.8,2.0,1.2,2.5,0.60
+8,Product Operations Coordinator,Business,803,Cross-departmental alignment syncs,0.6,3.6,4.0,2.2,2.0,0.14
+9,Risk & Compliance Associate,Business,901,Screening transactions against sanctions lists,3.6,1.0,0.5,0.5,2.2,0.80
+9,Risk & Compliance Associate,Business,902,Drafting regulatory compliance filings,2.8,2.5,1.5,1.2,3.0,0.60
+9,Risk & Compliance Associate,Business,903,Investigating anomaly escalations,1.2,3.8,2.0,2.5,3.5,0.26
+10,Management Trainee,Business,1010,Preparing executive slide decks,3.2,1.8,1.5,2.2,2.0,0.68
+10,Management Trainee,Business,1011,Cross-functional rotation projects,1.0,3.5,3.5,3.0,2.5,0.22
+10,Management Trainee,Business,1012,Strategic stakeholder presentation,0.5,3.9,4.0,3.2,2.5,0.12
+11,Junior Financial Analyst,Finance,1101,Parsing annual earnings reports,3.4,1.5,0.8,1.0,3.0,0.75
+11,Junior Financial Analyst,Finance,1102,Building discounted cash flow models,2.5,2.5,1.0,2.0,3.8,0.54
+11,Junior Financial Analyst,Finance,1103,Investment thesis narrative formulation,1.2,3.8,2.0,3.0,3.5,0.26
+11,Junior Financial Analyst,Finance,1104,Client advisory consultation,0.6,3.8,3.8,2.0,2.5,0.14
+12,Accounting Associate,Finance,1201,Invoice reconciliation,3.8,0.6,0.8,0.2,1.5,0.85
+12,Accounting Associate,Finance,1202,General ledger journal entries,3.5,1.0,0.5,0.5,2.0,0.78
+12,Accounting Associate,Finance,1203,Tax audit anomaly investigation,1.5,3.5,1.5,1.8,3.5,0.32
+13,Audit Analyst,Finance,1301,Sampling financial transactions,3.5,1.2,0.8,0.5,2.0,0.78
+13,Audit Analyst,Finance,1302,Internal control testing verification,2.2,2.8,1.8,1.5,3.0,0.48
+13,Audit Analyst,Finance,1303,Executive audit closing meetings,0.5,3.8,3.8,2.0,2.5,0.12
+14,Wealth Management Associate,Finance,1401,Portfolio performance snapshot generation,3.4,1.2,0.8,0.8,2.2,0.76
+14,Wealth Management Associate,Finance,1402,High net-worth client relationship building,0.4,3.9,4.0,2.8,2.0,0.10
+15,Tax Analyst,Finance,1501,Tax return data entry & verification,3.6,1.0,0.5,0.5,2.2,0.80
+15,Tax Analyst,Finance,1502,Complex international tax structuring,1.2,3.8,1.5,2.5,4.0,0.26
+16,Digital Marketing Executive,Marketing,1601,Social media caption & copy generation,3.6,1.0,1.2,2.5,1.5,0.80
+16,Digital Marketing Executive,Marketing,1602,A/B ad variant copy generation,3.5,1.2,1.0,2.2,1.8,0.78
+16,Digital Marketing Executive,Marketing,1603,Campaign performance metric parsing,3.0,1.8,1.2,1.5,2.5,0.65
+16,Digital Marketing Executive,Marketing,1604,Brand positioning strategy,0.8,3.8,3.2,3.8,2.2,0.18
+17,Content Specialist,Marketing,1701,First-draft blog post outline creation,3.7,0.8,0.8,2.0,1.2,0.82
+17,Content Specialist,Marketing,1702,SEO keyword density optimization,3.5,1.0,0.5,1.0,2.0,0.78
+17,Content Specialist,Marketing,1703,Editorial tone & voice curation,1.0,3.9,2.0,3.9,1.8,0.22
+18,Social Media Analyst,Marketing,1801,Sentiment analysis report aggregation,3.4,1.2,0.8,1.2,2.0,0.75
+18,Social Media Analyst,Marketing,1802,Real-time trend narrative spotting,1.5,3.2,2.5,3.2,2.0,0.32
+19,SEO Specialist,Marketing,1901,Backlink profile audit script execution,3.6,1.0,0.5,0.8,2.5,0.80
+19,SEO Specialist,Marketing,1902,Search intent content strategy,1.2,3.5,2.0,3.0,2.8,0.26
+20,Performance Marketing Associate,Marketing,2001,Ad bid automation monitoring,3.2,1.5,0.8,1.2,2.5,0.70
+20,Performance Marketing Associate,Marketing,2002,Creative campaign concept testing,1.2,3.6,2.5,3.8,2.5,0.26
+21,HR Associate,HR,2101,Resume keyword parsing & filter screening,3.6,1.0,1.0,0.5,1.5,0.80
+21,HR Associate,HR,2102,Interview scheduling coordination,3.5,1.0,2.0,0.5,1.2,0.78
+21,HR Associate,HR,2103,Conducting behavioral interviews,0.5,3.8,4.0,2.5,2.0,0.12
+21,HR Associate,HR,2104,Employee grievance resolution,0.4,3.9,4.0,2.8,2.0,0.10
+22,Recruitment Coordinator,HR,2201,Drafting candidate outreach emails,3.5,1.0,1.5,1.2,1.2,0.78
+22,Recruitment Coordinator,HR,2202,Candidate relationship building,0.5,3.8,4.0,2.2,1.5,0.12
+23,People Operations Associate,HR,2301,Onboarding document verification,3.7,0.8,1.2,0.5,1.2,0.82
+23,People Operations Associate,HR,2302,Company culture initiative design,1.0,3.6,3.8,3.2,1.8,0.22
+24,L&D Coordinator,HR,2401,Training completion tracking,3.6,0.8,1.0,0.5,1.5,0.80
+24,L&D Coordinator,HR,2402,Skill curriculum needs assessment,1.2,3.6,3.0,3.0,2.5,0.26
+25,Compensation & Benefits Assistant,HR,2501,Payroll spreadsheet reconciliation,3.7,0.8,0.5,0.2,1.8,0.82
+25,Compensation & Benefits Assistant,HR,2502,Market compensation benchmark analysis,2.2,2.8,1.5,1.8,3.0,0.48
+26,Customer Support Specialist,Customer Operations,2601,Answering tier-1 repetitive FAQs,3.8,0.6,1.2,0.5,1.0,0.85
+26,Customer Support Specialist,Customer Operations,2602,Ticket categorization & tag assignment,3.7,0.8,0.5,0.5,1.2,0.82
+26,Customer Support Specialist,Customer Operations,2603,De-escalating angry customer calls,0.4,3.9,4.0,2.5,1.8,0.10
+26,Customer Support Specialist,Customer Operations,2604,Complex troubleshooting consultation,1.2,3.6,3.2,2.5,3.0,0.26
+27,Client Service Associate,Customer Operations,2701,Generating monthly account status summaries,3.4,1.2,1.5,0.8,1.8,0.75
+27,Client Service Associate,Customer Operations,2702,Client retention & quarterly reviews,0.5,3.8,4.0,2.8,2.2,0.12
+28,Technical Support Representative,Customer Operations,2801,Log file pattern error lookup,3.3,1.5,1.0,1.0,2.5,0.72
+28,Technical Support Representative,Customer Operations,2802,Live screen sharing bug reproduction,1.2,3.5,3.2,2.0,3.2,0.26
+29,Operations Analyst,Customer Operations,2901,SLA violation metric aggregation,3.5,1.0,0.8,0.8,2.0,0.78
+29,Operations Analyst,Customer Operations,2902,Support workflow optimization recommendations,1.4,3.6,2.2,2.8,3.0,0.30
+30,Customer Success Associate,Customer Operations,3001,Product adoption onboarding emails,3.3,1.2,1.8,1.2,1.5,0.73
+30,Customer Success Associate,Customer Operations,3002,Executive quarterly business reviews,0.5,3.8,3.9,2.8,2.2,0.12
+31,Junior Data Analyst,Data,3101,Data cleaning & missing value imputation,3.4,1.5,0.5,1.0,2.8,0.75
+31,Junior Data Analyst,Data,3102,Writing routine SQL queries,3.0,1.8,0.8,1.2,3.0,0.66
+31,Junior Data Analyst,Data,3103,Standard dashboard template generation,2.8,2.0,1.0,1.8,2.8,0.60
+31,Junior Data Analyst,Data,3104,Translating data into business story narratives,1.0,3.9,3.5,3.5,3.2,0.22
+31,Junior Data Analyst,Data,3105,Explaining findings to business stakeholders,0.6,3.8,3.8,2.8,2.5,0.14
+32,Reporting Analyst,Data,3201,Weekly PDF report compilation,3.7,0.8,0.5,0.5,1.5,0.82
+32,Reporting Analyst,Data,3202,Automated report trigger pipeline setup,2.5,2.2,1.0,1.5,3.0,0.54
+33,Data Operations Associate,Data,3301,Data entry pipeline monitoring,3.6,0.8,0.5,0.5,2.0,0.80
+33,Data Operations Associate,Data,3302,Data quality governance auditing,1.8,3.2,1.8,1.8,3.2,0.40
+34,Business Intelligence Assistant,Data,3401,ETL job log parsing,3.4,1.2,0.5,0.8,2.5,0.75
+34,Business Intelligence Assistant,Data,3402,Executive decision dashboard storytelling,1.0,3.8,3.2,3.5,3.2,0.22
+35,Database Administrator Assistant,Data,3501,Database index maintenance script execution,3.5,1.0,0.5,0.5,2.8,0.78
+35,Database Administrator Assistant,Data,3502,Disaster recovery architecture planning,1.2,3.8,1.8,2.5,4.0,0.26
+36,UI/UX Designer,Design/Creative,3601,Generating UI layout variation concepts,3.0,1.8,1.2,3.0,2.0,0.65
+36,UI/UX Designer,Design/Creative,3602,User research interview synthesis,1.2,3.6,3.8,2.8,2.2,0.26
+36,UI/UX Designer,Design/Creative,3603,Empathy mapping & user persona creation,1.0,3.8,3.5,3.6,2.0,0.22
+36,UI/UX Designer,Design/Creative,3604,Design system component tokenization,2.2,2.5,1.5,2.5,3.0,0.48
+37,Graphic Design Associate,Design/Creative,3701,Social media banner image generation,3.5,1.0,0.8,2.8,1.5,0.78
+37,Graphic Design Associate,Design/Creative,3702,Brand identity direction & narrative,0.8,3.9,2.5,4.0,1.8,0.18
+38,Copywriter,Design/Creative,3801,First draft advertising tagline ideas,3.5,1.0,1.0,3.0,1.2,0.78
+38,Copywriter,Design/Creative,3802,Nuanced brand voice storytelling,0.8,3.9,2.2,4.0,1.5,0.18
+39,Motion Designer,Design/Creative,3901,Basic keyframe interpolation rendering,3.0,1.8,0.8,2.8,2.5,0.65
+39,Motion Designer,Design/Creative,3902,Storyboarding complex visual narratives,1.0,3.8,2.2,3.9,2.5,0.22
+40,Brand Content Creator,Design/Creative,4001,Short-form video script generation,3.3,1.2,1.5,3.0,1.5,0.73
+40,Brand Content Creator,Design/Creative,4002,On-camera authentic video presentation,0.3,3.9,4.0,3.5,1.5,0.08

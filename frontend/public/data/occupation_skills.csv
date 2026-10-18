@@ -1,0 +1,72 @@
+occupation_id,occupation,sector,skill_id,skill_name,category,importance,future_trend,employer_demand_frequency
+1,Junior Developer,Technology,S01,Python,Technical,High,Growing,82
+1,Junior Developer,Technology,S02,SQL,Technical,High,Growing,76
+1,Junior Developer,Technology,S03,Git/GitHub,Technical,High,Stable,88
+1,Junior Developer,Technology,S04,AI-Assisted Coding (Copilot/ChatGPT),AI Readiness,High,Growing,65
+1,Junior Developer,Technology,S05,System Architecture,Cognitive,Medium,Growing,45
+1,Junior Developer,Technology,S06,Code Security & Review,Technical,High,Growing,68
+1,Junior Developer,Technology,S07,Problem Decomposition,Cognitive,High,Growing,80
+1,Junior Developer,Technology,S08,Cross-Functional Communication,Human,Medium,Growing,62
+2,QA Tester,Technology,S02,SQL,Technical,Medium,Stable,58
+2,QA Tester,Technology,S03,Git/GitHub,Technical,Medium,Stable,64
+2,QA Tester,Technology,S04,AI-Assisted Testing & Scripting,AI Readiness,High,Growing,55
+2,QA Tester,Technology,S09,Automated Testing (Selenium/Playwright),Technical,High,Growing,74
+2,QA Tester,Technology,S10,Bug Triaging & Edge-Case Thinking,Cognitive,High,Growing,78
+3,Frontend Developer,Technology,S03,Git/GitHub,Technical,High,Stable,85
+3,Frontend Developer,Technology,S04,AI-Assisted Coding (Copilot/ChatGPT),AI Readiness,High,Growing,70
+3,Frontend Developer,Technology,S11,React / JavaScript,Technical,High,Stable,90
+3,Frontend Developer,Technology,S12,CSS / Design Tokens,Technical,Medium,Stable,75
+3,Frontend Developer,Technology,S13,Accessibility & UX Polish,Cognitive,High,Growing,60
+4,Cloud Support Engineer,Technology,S02,SQL,Technical,Medium,Stable,50
+4,Cloud Support Engineer,Technology,S14,Linux / Scripting,Technical,High,Stable,80
+4,Cloud Support Engineer,Technology,S15,Cloud Basics (AWS/Azure),Technical,High,Growing,85
+4,Cloud Support Engineer,Technology,S16,Incident Root-Cause Analysis,Cognitive,High,Growing,72
+4,Cloud Support Engineer,Technology,S08,Cross-Functional Communication,Human,High,Growing,70
+6,Business Analyst,Business,S02,SQL,Technical,High,Growing,72
+6,Business Analyst,Business,S17,Excel / Spreadsheet Modeling,Technical,High,Stable,88
+6,Business Analyst,Business,S18,Power BI / Data Visualization,Technical,High,Growing,78
+6,Business Analyst,Business,S19,Requirement Gathering,Human,High,Growing,84
+6,Business Analyst,Business,S20,Business Process Mapping,Cognitive,High,Growing,68
+6,Business Analyst,Business,S21,AI-Assisted Summarization & Reporting,AI Readiness,Medium,Growing,58
+7,Operations Associate,Business,S17,Excel / Spreadsheet Modeling,Technical,High,Stable,85
+7,Operations Associate,Business,S22,Vendor Management,Human,Medium,Stable,52
+7,Operations Associate,Business,S23,Process Troubleshooting,Cognitive,High,Growing,66
+7,Operations Associate,Business,S21,AI-Assisted Summarization & Reporting,AI Readiness,Medium,Growing,48
+11,Junior Financial Analyst,Finance,S01,Python,Technical,Medium,Growing,45
+11,Junior Financial Analyst,Finance,S02,SQL,Technical,High,Growing,65
+11,Junior Financial Analyst,Finance,S17,Excel / Spreadsheet Modeling,Technical,High,Stable,92
+11,Junior Financial Analyst,Finance,S24,Financial Modeling (DCF),Technical,High,Stable,78
+11,Junior Financial Analyst,Finance,S25,Data Storytelling & Executive Pitching,Human,High,Growing,70
+11,Junior Financial Analyst,Finance,S21,AI-Assisted Summarization & Reporting,AI Readiness,Medium,Growing,50
+12,Accounting Associate,Finance,17,Excel / Spreadsheet Modeling,Technical,High,Stable,90
+12,Accounting Associate,Finance,S26,Accounting Standards (Tally/GST),Technical,High,Stable,82
+12,Accounting Associate,Finance,S27,Audit Trail Reconciliation,Cognitive,High,Growing,60
+16,Digital Marketing Executive,Marketing,S18,Power BI / Data Visualization,Technical,Medium,Growing,45
+16,Digital Marketing Executive,Marketing,S28,SEO & Keyword Research,Technical,High,Stable,78
+16,Digital Marketing Executive,Marketing,S29,Generative AI Prompting (Copy & Visuals),AI Readiness,High,Growing,75
+16,Digital Marketing Executive,Marketing,S30,Campaign Analytics,Cognitive,High,Growing,80
+16,Digital Marketing Executive,Marketing,S31,Brand Positioning & Strategy,Cognitive,High,Growing,72
+16,Digital Marketing Executive,Marketing,S32,Persuasive Communication,Human,High,Growing,85
+17,Content Specialist,Marketing,S29,Generative AI Prompting (Copy & Visuals),AI Readiness,High,Growing,80
+17,Content Specialist,Marketing,S33,Editorial Tone & Fact Verification,Cognitive,High,Growing,75
+17,Content Specialist,Marketing,S32,Persuasive Communication,Human,High,Growing,82
+21,HR Associate,HR,S17,Excel / Spreadsheet Modeling,Technical,Medium,Stable,70
+21,HR Associate,HR,S34,Applicant Tracking Systems (ATS),Technical,Medium,Stable,65
+21,HR Associate,HR,S35,Behavioral Interviewing,Human,High,Growing,88
+21,HR Associate,HR,S36,Conflict Resolution & Empathy,Human,High,Growing,90
+21,HR Associate,HR,S37,AI-Assisted Candidate Sourcing,AI Readiness,Medium,Growing,55
+26,Customer Support Specialist,Customer Operations,S38,CRM Tools (Zendesk/Salesforce),Technical,High,Stable,80
+26,Customer Support Specialist,Customer Operations,S39,Customer Empathy & Active Listening,Human,High,Growing,92
+26,Customer Support Specialist,Customer Operations,S40,De-escalation & Negotiation,Human,High,Growing,85
+26,Customer Support Specialist,Customer Operations,S41,AI Copilot Support Navigation,AI Readiness,Medium,Growing,60
+31,Junior Data Analyst,Data,S01,Python,Technical,High,Growing,80
+31,Junior Data Analyst,Data,S02,SQL,Technical,High,Growing,92
+31,Junior Data Analyst,Data,S17,Excel / Spreadsheet Modeling,Technical,High,Stable,85
+31,Junior Data Analyst,Data,S18,Power BI / Data Visualization,Technical,High,Growing,84
+31,Junior Data Analyst,Data,S25,Data Storytelling & Executive Pitching,Human,High,Growing,78
+31,Junior Data Analyst,Data,S42,AI-Assisted Analytics (Code Interpreter),AI Readiness,High,Growing,70
+31,Junior Data Analyst,Data,S43,Critical Business Reasoning,Cognitive,High,Growing,86
+36,UI/UX Designer,Design/Creative,S44,Figma / Design Tools,Technical,High,Stable,92
+36,UI/UX Designer,Design/Creative,S45,User Research & Empathy Mapping,Human,High,Growing,88
+36,UI/UX Designer,Design/Creative,S46,Design System Architecture,Cognitive,High,Growing,75
+36,UI/UX Designer,Design/Creative,S47,Generative AI Design Exploration,AI Readiness,Medium,Growing,60

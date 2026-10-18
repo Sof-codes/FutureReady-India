@@ -1,0 +1,2925 @@
+{
+  "summary": [
+    {
+      "occupation_id": 1,
+      "occupation": "Junior Developer",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "task_count": 6,
+      "human_judgement_avg": 2.45,
+      "social_interaction_avg": 1.67,
+      "creativity_avg": 1.92
+    },
+    {
+      "occupation_id": 2,
+      "occupation": "QA Tester",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.52,
+      "task_count": 4,
+      "human_judgement_avg": 2.33,
+      "social_interaction_avg": 1.82,
+      "creativity_avg": 1.7
+    },
+    {
+      "occupation_id": 3,
+      "occupation": "Frontend Developer",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.51,
+      "task_count": 4,
+      "human_judgement_avg": 2.48,
+      "social_interaction_avg": 1.2,
+      "creativity_avg": 2.33
+    },
+    {
+      "occupation_id": 4,
+      "occupation": "Cloud Support Engineer",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.45,
+      "task_count": 3,
+      "human_judgement_avg": 2.7,
+      "social_interaction_avg": 2.1,
+      "creativity_avg": 1.4
+    },
+    {
+      "occupation_id": 5,
+      "occupation": "Systems Administrator",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.63,
+      "task_count": 3,
+      "human_judgement_avg": 1.87,
+      "social_interaction_avg": 1.1,
+      "creativity_avg": 1.27
+    },
+    {
+      "occupation_id": 6,
+      "occupation": "Business Analyst",
+      "sector": "Business",
+      "ai_exposure_level": "Low",
+      "average_ai_exposure": 0.39,
+      "task_count": 4,
+      "human_judgement_avg": 3.0,
+      "social_interaction_avg": 2.75,
+      "creativity_avg": 2.42
+    },
+    {
+      "occupation_id": 7,
+      "occupation": "Operations Associate",
+      "sector": "Business",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "task_count": 4,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.0,
+      "creativity_avg": 1.65
+    },
+    {
+      "occupation_id": 8,
+      "occupation": "Product Operations Coordinator",
+      "sector": "Business",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.49,
+      "task_count": 3,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.4,
+      "creativity_avg": 1.73
+    },
+    {
+      "occupation_id": 9,
+      "occupation": "Risk & Compliance Associate",
+      "sector": "Business",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.55,
+      "task_count": 3,
+      "human_judgement_avg": 2.43,
+      "social_interaction_avg": 1.33,
+      "creativity_avg": 1.4
+    },
+    {
+      "occupation_id": 10,
+      "occupation": "Management Trainee",
+      "sector": "Business",
+      "ai_exposure_level": "Low",
+      "average_ai_exposure": 0.34,
+      "task_count": 3,
+      "human_judgement_avg": 3.07,
+      "social_interaction_avg": 3.0,
+      "creativity_avg": 2.8
+    },
+    {
+      "occupation_id": 11,
+      "occupation": "Junior Financial Analyst",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.42,
+      "task_count": 4,
+      "human_judgement_avg": 2.9,
+      "social_interaction_avg": 1.9,
+      "creativity_avg": 2.0
+    },
+    {
+      "occupation_id": 12,
+      "occupation": "Accounting Associate",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.65,
+      "task_count": 3,
+      "human_judgement_avg": 1.7,
+      "social_interaction_avg": 0.93,
+      "creativity_avg": 0.83
+    },
+    {
+      "occupation_id": 13,
+      "occupation": "Audit Analyst",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.46,
+      "task_count": 3,
+      "human_judgement_avg": 2.6,
+      "social_interaction_avg": 2.13,
+      "creativity_avg": 1.33
+    },
+    {
+      "occupation_id": 14,
+      "occupation": "Wealth Management Associate",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.43,
+      "task_count": 2,
+      "human_judgement_avg": 2.55,
+      "social_interaction_avg": 2.4,
+      "creativity_avg": 1.8
+    },
+    {
+      "occupation_id": 15,
+      "occupation": "Tax Analyst",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "task_count": 2,
+      "human_judgement_avg": 2.4,
+      "social_interaction_avg": 1.0,
+      "creativity_avg": 1.5
+    },
+    {
+      "occupation_id": 16,
+      "occupation": "Digital Marketing Executive",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.6,
+      "task_count": 4,
+      "human_judgement_avg": 1.95,
+      "social_interaction_avg": 1.65,
+      "creativity_avg": 2.5
+    },
+    {
+      "occupation_id": 17,
+      "occupation": "Content Specialist",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.61,
+      "task_count": 3,
+      "human_judgement_avg": 1.9,
+      "social_interaction_avg": 1.1,
+      "creativity_avg": 2.3
+    },
+    {
+      "occupation_id": 18,
+      "occupation": "Social Media Analyst",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.54,
+      "task_count": 2,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 1.65,
+      "creativity_avg": 2.2
+    },
+    {
+      "occupation_id": 19,
+      "occupation": "SEO Specialist",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "task_count": 2,
+      "human_judgement_avg": 2.25,
+      "social_interaction_avg": 1.25,
+      "creativity_avg": 1.9
+    },
+    {
+      "occupation_id": 20,
+      "occupation": "Performance Marketing Associate",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "task_count": 2,
+      "human_judgement_avg": 2.55,
+      "social_interaction_avg": 1.65,
+      "creativity_avg": 2.5
+    },
+    {
+      "occupation_id": 21,
+      "occupation": "HR Associate",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.45,
+      "task_count": 4,
+      "human_judgement_avg": 2.42,
+      "social_interaction_avg": 2.75,
+      "creativity_avg": 1.57
+    },
+    {
+      "occupation_id": 22,
+      "occupation": "Recruitment Coordinator",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.45,
+      "task_count": 2,
+      "human_judgement_avg": 2.4,
+      "social_interaction_avg": 2.75,
+      "creativity_avg": 1.7
+    },
+    {
+      "occupation_id": 23,
+      "occupation": "People Operations Associate",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.52,
+      "task_count": 2,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.5,
+      "creativity_avg": 1.85
+    },
+    {
+      "occupation_id": 24,
+      "occupation": "L&D Coordinator",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "task_count": 2,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.0,
+      "creativity_avg": 1.75
+    },
+    {
+      "occupation_id": 25,
+      "occupation": "Compensation & Benefits Assistant",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.65,
+      "task_count": 2,
+      "human_judgement_avg": 1.8,
+      "social_interaction_avg": 1.0,
+      "creativity_avg": 1.0
+    },
+    {
+      "occupation_id": 26,
+      "occupation": "Customer Support Specialist",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.51,
+      "task_count": 4,
+      "human_judgement_avg": 2.23,
+      "social_interaction_avg": 2.23,
+      "creativity_avg": 1.5
+    },
+    {
+      "occupation_id": 27,
+      "occupation": "Client Service Associate",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.43,
+      "task_count": 2,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 2.75,
+      "creativity_avg": 1.8
+    },
+    {
+      "occupation_id": 28,
+      "occupation": "Technical Support Representative",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.49,
+      "task_count": 2,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 2.1,
+      "creativity_avg": 1.5
+    },
+    {
+      "occupation_id": 29,
+      "occupation": "Operations Analyst",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.54,
+      "task_count": 2,
+      "human_judgement_avg": 2.3,
+      "social_interaction_avg": 1.5,
+      "creativity_avg": 1.8
+    },
+    {
+      "occupation_id": 30,
+      "occupation": "Customer Success Associate",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.42,
+      "task_count": 2,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 2.85,
+      "creativity_avg": 2.0
+    },
+    {
+      "occupation_id": 31,
+      "occupation": "Junior Data Analyst",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.47,
+      "task_count": 5,
+      "human_judgement_avg": 2.6,
+      "social_interaction_avg": 1.92,
+      "creativity_avg": 2.06
+    },
+    {
+      "occupation_id": 32,
+      "occupation": "Reporting Analyst",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.68,
+      "task_count": 2,
+      "human_judgement_avg": 1.5,
+      "social_interaction_avg": 0.75,
+      "creativity_avg": 1.0
+    },
+    {
+      "occupation_id": 33,
+      "occupation": "Data Operations Associate",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.6,
+      "task_count": 2,
+      "human_judgement_avg": 2.0,
+      "social_interaction_avg": 1.15,
+      "creativity_avg": 1.15
+    },
+    {
+      "occupation_id": 34,
+      "occupation": "Business Intelligence Assistant",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "task_count": 2,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 1.85,
+      "creativity_avg": 2.15
+    },
+    {
+      "occupation_id": 35,
+      "occupation": "Database Administrator Assistant",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.52,
+      "task_count": 2,
+      "human_judgement_avg": 2.4,
+      "social_interaction_avg": 1.15,
+      "creativity_avg": 1.5
+    },
+    {
+      "occupation_id": 36,
+      "occupation": "UI/UX Designer",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.4,
+      "task_count": 4,
+      "human_judgement_avg": 2.92,
+      "social_interaction_avg": 2.5,
+      "creativity_avg": 2.98
+    },
+    {
+      "occupation_id": 37,
+      "occupation": "Graphic Design Associate",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "task_count": 2,
+      "human_judgement_avg": 2.45,
+      "social_interaction_avg": 1.65,
+      "creativity_avg": 3.4
+    },
+    {
+      "occupation_id": 38,
+      "occupation": "Copywriter",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "task_count": 2,
+      "human_judgement_avg": 2.45,
+      "social_interaction_avg": 1.6,
+      "creativity_avg": 3.5
+    },
+    {
+      "occupation_id": 39,
+      "occupation": "Motion Designer",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.43,
+      "task_count": 2,
+      "human_judgement_avg": 2.8,
+      "social_interaction_avg": 1.5,
+      "creativity_avg": 3.35
+    },
+    {
+      "occupation_id": 40,
+      "occupation": "Brand Content Creator",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.4,
+      "task_count": 2,
+      "human_judgement_avg": 2.55,
+      "social_interaction_avg": 2.75,
+      "creativity_avg": 3.25
+    }
+  ],
+  "details": {
+    "1": {
+      "occupation_id": 1,
+      "occupation": "Junior Developer",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "human_judgement_avg": 2.45,
+      "social_interaction_avg": 1.67,
+      "tasks": [
+        {
+          "task_id": 101,
+          "task_name": "Writing boilerplate code",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 1.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 102,
+          "task_name": "Debugging runtime syntax errors",
+          "ai_replaceability": 3.2,
+          "human_judgement": 1.5,
+          "social_interaction": 0.5,
+          "creativity": 1.0,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.72
+        },
+        {
+          "task_id": 103,
+          "task_name": "Writing unit test suites",
+          "ai_replaceability": 3.6,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 1.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 104,
+          "task_name": "System architecture design",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.8,
+          "social_interaction": 2.5,
+          "creativity": 3.5,
+          "technical_complexity": 4.0,
+          "ai_exposure_score": 0.22
+        },
+        {
+          "task_id": 105,
+          "task_name": "Reviewing AI-generated code for security",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.9,
+          "social_interaction": 2.0,
+          "creativity": 2.5,
+          "technical_complexity": 3.8,
+          "ai_exposure_score": 0.25
+        },
+        {
+          "task_id": 106,
+          "task_name": "Cross-functional team communication",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.5,
+          "social_interaction": 4.0,
+          "creativity": 2.5,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.12
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S01",
+          "skill_name": "Python",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 82
+        },
+        {
+          "skill_id": "S02",
+          "skill_name": "SQL",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 76
+        },
+        {
+          "skill_id": "S03",
+          "skill_name": "Git/GitHub",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 88
+        },
+        {
+          "skill_id": "S04",
+          "skill_name": "AI-Assisted Coding (Copilot/ChatGPT)",
+          "category": "AI Readiness",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 65
+        },
+        {
+          "skill_id": "S05",
+          "skill_name": "System Architecture",
+          "category": "Cognitive",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 45
+        },
+        {
+          "skill_id": "S06",
+          "skill_name": "Code Security & Review",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 68
+        },
+        {
+          "skill_id": "S07",
+          "skill_name": "Problem Decomposition",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 80
+        },
+        {
+          "skill_id": "S08",
+          "skill_name": "Cross-Functional Communication",
+          "category": "Human",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 62
+        }
+      ]
+    },
+    "2": {
+      "occupation_id": 2,
+      "occupation": "QA Tester",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.52,
+      "human_judgement_avg": 2.33,
+      "social_interaction_avg": 1.82,
+      "tasks": [
+        {
+          "task_id": 201,
+          "task_name": "Executing manual test scripts",
+          "ai_replaceability": 3.8,
+          "human_judgement": 0.8,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.85
+        },
+        {
+          "task_id": 202,
+          "task_name": "Writing automated test scripts",
+          "ai_replaceability": 3.2,
+          "human_judgement": 1.8,
+          "social_interaction": 1.0,
+          "creativity": 1.5,
+          "technical_complexity": 2.8,
+          "ai_exposure_score": 0.7
+        },
+        {
+          "task_id": 203,
+          "task_name": "Bug triage and edge-case discovery",
+          "ai_replaceability": 1.5,
+          "human_judgement": 3.5,
+          "social_interaction": 2.0,
+          "creativity": 2.8,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.32
+        },
+        {
+          "task_id": 204,
+          "task_name": "User acceptance testing coordination",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.2,
+          "social_interaction": 3.8,
+          "creativity": 2.0,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.2
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S02",
+          "skill_name": "SQL",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 58
+        },
+        {
+          "skill_id": "S03",
+          "skill_name": "Git/GitHub",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 64
+        },
+        {
+          "skill_id": "S04",
+          "skill_name": "AI-Assisted Testing & Scripting",
+          "category": "AI Readiness",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 55
+        },
+        {
+          "skill_id": "S09",
+          "skill_name": "Automated Testing (Selenium/Playwright)",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 74
+        },
+        {
+          "skill_id": "S10",
+          "skill_name": "Bug Triaging & Edge-Case Thinking",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 78
+        }
+      ]
+    },
+    "3": {
+      "occupation_id": 3,
+      "occupation": "Frontend Developer",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.51,
+      "human_judgement_avg": 2.48,
+      "social_interaction_avg": 1.2,
+      "tasks": [
+        {
+          "task_id": 301,
+          "task_name": "Translating designs into HTML/CSS",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.2,
+          "social_interaction": 0.8,
+          "creativity": 2.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.75
+        },
+        {
+          "task_id": 302,
+          "task_name": "Component state management",
+          "ai_replaceability": 2.2,
+          "human_judgement": 2.5,
+          "social_interaction": 1.0,
+          "creativity": 2.0,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.48
+        },
+        {
+          "task_id": 303,
+          "task_name": "UX micro-interaction animation",
+          "ai_replaceability": 1.8,
+          "human_judgement": 3.0,
+          "social_interaction": 1.5,
+          "creativity": 3.5,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.38
+        },
+        {
+          "task_id": 304,
+          "task_name": "Accessibility audit & compliance",
+          "ai_replaceability": 2.0,
+          "human_judgement": 3.2,
+          "social_interaction": 1.5,
+          "creativity": 1.8,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.42
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S03",
+          "skill_name": "Git/GitHub",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 85
+        },
+        {
+          "skill_id": "S04",
+          "skill_name": "AI-Assisted Coding (Copilot/ChatGPT)",
+          "category": "AI Readiness",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 70
+        },
+        {
+          "skill_id": "S11",
+          "skill_name": "React / JavaScript",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 90
+        },
+        {
+          "skill_id": "S12",
+          "skill_name": "CSS / Design Tokens",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 75
+        },
+        {
+          "skill_id": "S13",
+          "skill_name": "Accessibility & UX Polish",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 60
+        }
+      ]
+    },
+    "4": {
+      "occupation_id": 4,
+      "occupation": "Cloud Support Engineer",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.45,
+      "human_judgement_avg": 2.7,
+      "social_interaction_avg": 2.1,
+      "tasks": [
+        {
+          "task_id": 401,
+          "task_name": "Monitoring server health logs",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 402,
+          "task_name": "Incident triage & root cause analysis",
+          "ai_replaceability": 1.8,
+          "human_judgement": 3.6,
+          "social_interaction": 2.0,
+          "creativity": 2.2,
+          "technical_complexity": 3.8,
+          "ai_exposure_score": 0.38
+        },
+        {
+          "task_id": 403,
+          "task_name": "Client escalation handling",
+          "ai_replaceability": 0.8,
+          "human_judgement": 3.5,
+          "social_interaction": 3.8,
+          "creativity": 1.5,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.18
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S02",
+          "skill_name": "SQL",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 50
+        },
+        {
+          "skill_id": "S14",
+          "skill_name": "Linux / Scripting",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 80
+        },
+        {
+          "skill_id": "S15",
+          "skill_name": "Cloud Basics (AWS/Azure)",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 85
+        },
+        {
+          "skill_id": "S16",
+          "skill_name": "Incident Root-Cause Analysis",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 72
+        },
+        {
+          "skill_id": "S08",
+          "skill_name": "Cross-Functional Communication",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 70
+        }
+      ]
+    },
+    "5": {
+      "occupation_id": 5,
+      "occupation": "Systems Administrator",
+      "sector": "Technology",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.63,
+      "human_judgement_avg": 1.87,
+      "social_interaction_avg": 1.1,
+      "tasks": [
+        {
+          "task_id": 501,
+          "task_name": "User access provisioning",
+          "ai_replaceability": 3.6,
+          "human_judgement": 0.8,
+          "social_interaction": 1.0,
+          "creativity": 0.5,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.82
+        },
+        {
+          "task_id": 502,
+          "task_name": "Patch management script execution",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.2,
+          "social_interaction": 0.5,
+          "creativity": 0.8,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.76
+        },
+        {
+          "task_id": 503,
+          "task_name": "Network topology optimization",
+          "ai_replaceability": 1.4,
+          "human_judgement": 3.6,
+          "social_interaction": 1.8,
+          "creativity": 2.5,
+          "technical_complexity": 3.9,
+          "ai_exposure_score": 0.3
+        }
+      ],
+      "skills": []
+    },
+    "6": {
+      "occupation_id": 6,
+      "occupation": "Business Analyst",
+      "sector": "Business",
+      "ai_exposure_level": "Low",
+      "average_ai_exposure": 0.38,
+      "human_judgement_avg": 3.0,
+      "social_interaction_avg": 2.75,
+      "tasks": [
+        {
+          "task_id": 601,
+          "task_name": "Synthesizing survey response data",
+          "ai_replaceability": 3.2,
+          "human_judgement": 1.5,
+          "social_interaction": 1.0,
+          "creativity": 1.5,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.7
+        },
+        {
+          "task_id": 602,
+          "task_name": "Gathering client requirements",
+          "ai_replaceability": 0.8,
+          "human_judgement": 3.8,
+          "social_interaction": 4.0,
+          "creativity": 2.5,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.18
+        },
+        {
+          "task_id": 603,
+          "task_name": "Process mapping and workflow modeling",
+          "ai_replaceability": 2.0,
+          "human_judgement": 2.8,
+          "social_interaction": 2.5,
+          "creativity": 2.5,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.44
+        },
+        {
+          "task_id": 604,
+          "task_name": "Formulating strategic recommendations",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.9,
+          "social_interaction": 3.5,
+          "creativity": 3.2,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.22
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S02",
+          "skill_name": "SQL",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 72
+        },
+        {
+          "skill_id": "S17",
+          "skill_name": "Excel / Spreadsheet Modeling",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 88
+        },
+        {
+          "skill_id": "S18",
+          "skill_name": "Power BI / Data Visualization",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 78
+        },
+        {
+          "skill_id": "S19",
+          "skill_name": "Requirement Gathering",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 84
+        },
+        {
+          "skill_id": "S20",
+          "skill_name": "Business Process Mapping",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 68
+        },
+        {
+          "skill_id": "S21",
+          "skill_name": "AI-Assisted Summarization & Reporting",
+          "category": "AI Readiness",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 58
+        }
+      ]
+    },
+    "7": {
+      "occupation_id": 7,
+      "occupation": "Operations Associate",
+      "sector": "Business",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.0,
+      "tasks": [
+        {
+          "task_id": 701,
+          "task_name": "Data entry across spreadsheets",
+          "ai_replaceability": 3.9,
+          "human_judgement": 0.5,
+          "social_interaction": 0.5,
+          "creativity": 0.2,
+          "technical_complexity": 1.0,
+          "ai_exposure_score": 0.88
+        },
+        {
+          "task_id": 702,
+          "task_name": "Daily inventory status reporting",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 1.0,
+          "creativity": 0.8,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 703,
+          "task_name": "Vendor negotiation & relationship management",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.8,
+          "social_interaction": 4.0,
+          "creativity": 2.8,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.12
+        },
+        {
+          "task_id": 704,
+          "task_name": "Process bottleneck troubleshooting",
+          "ai_replaceability": 1.5,
+          "human_judgement": 3.5,
+          "social_interaction": 2.5,
+          "creativity": 2.8,
+          "technical_complexity": 2.8,
+          "ai_exposure_score": 0.32
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S17",
+          "skill_name": "Excel / Spreadsheet Modeling",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 85
+        },
+        {
+          "skill_id": "S22",
+          "skill_name": "Vendor Management",
+          "category": "Human",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 52
+        },
+        {
+          "skill_id": "S23",
+          "skill_name": "Process Troubleshooting",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 66
+        },
+        {
+          "skill_id": "S21",
+          "skill_name": "AI-Assisted Summarization & Reporting",
+          "category": "AI Readiness",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 48
+        }
+      ]
+    },
+    "8": {
+      "occupation_id": 8,
+      "occupation": "Product Operations Coordinator",
+      "sector": "Business",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.49,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.4,
+      "tasks": [
+        {
+          "task_id": 801,
+          "task_name": "Drafting product release notes",
+          "ai_replaceability": 3.3,
+          "human_judgement": 1.2,
+          "social_interaction": 1.2,
+          "creativity": 1.8,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.73
+        },
+        {
+          "task_id": 802,
+          "task_name": "Tracking feature sprint velocity",
+          "ai_replaceability": 2.8,
+          "human_judgement": 1.8,
+          "social_interaction": 2.0,
+          "creativity": 1.2,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.6
+        },
+        {
+          "task_id": 803,
+          "task_name": "Cross-departmental alignment syncs",
+          "ai_replaceability": 0.6,
+          "human_judgement": 3.6,
+          "social_interaction": 4.0,
+          "creativity": 2.2,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.14
+        }
+      ],
+      "skills": []
+    },
+    "9": {
+      "occupation_id": 9,
+      "occupation": "Risk & Compliance Associate",
+      "sector": "Business",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.55,
+      "human_judgement_avg": 2.43,
+      "social_interaction_avg": 1.33,
+      "tasks": [
+        {
+          "task_id": 901,
+          "task_name": "Screening transactions against sanctions lists",
+          "ai_replaceability": 3.6,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 902,
+          "task_name": "Drafting regulatory compliance filings",
+          "ai_replaceability": 2.8,
+          "human_judgement": 2.5,
+          "social_interaction": 1.5,
+          "creativity": 1.2,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.6
+        },
+        {
+          "task_id": 903,
+          "task_name": "Investigating anomaly escalations",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.8,
+          "social_interaction": 2.0,
+          "creativity": 2.5,
+          "technical_complexity": 3.5,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "10": {
+      "occupation_id": 10,
+      "occupation": "Management Trainee",
+      "sector": "Business",
+      "ai_exposure_level": "Low",
+      "average_ai_exposure": 0.34,
+      "human_judgement_avg": 3.07,
+      "social_interaction_avg": 3.0,
+      "tasks": [
+        {
+          "task_id": 1010,
+          "task_name": "Preparing executive slide decks",
+          "ai_replaceability": 3.2,
+          "human_judgement": 1.8,
+          "social_interaction": 1.5,
+          "creativity": 2.2,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.68
+        },
+        {
+          "task_id": 1011,
+          "task_name": "Cross-functional rotation projects",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.5,
+          "social_interaction": 3.5,
+          "creativity": 3.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.22
+        },
+        {
+          "task_id": 1012,
+          "task_name": "Strategic stakeholder presentation",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.9,
+          "social_interaction": 4.0,
+          "creativity": 3.2,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.12
+        }
+      ],
+      "skills": []
+    },
+    "11": {
+      "occupation_id": 11,
+      "occupation": "Junior Financial Analyst",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.42,
+      "human_judgement_avg": 2.9,
+      "social_interaction_avg": 1.9,
+      "tasks": [
+        {
+          "task_id": 1101,
+          "task_name": "Parsing annual earnings reports",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.5,
+          "social_interaction": 0.8,
+          "creativity": 1.0,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.75
+        },
+        {
+          "task_id": 1102,
+          "task_name": "Building discounted cash flow models",
+          "ai_replaceability": 2.5,
+          "human_judgement": 2.5,
+          "social_interaction": 1.0,
+          "creativity": 2.0,
+          "technical_complexity": 3.8,
+          "ai_exposure_score": 0.54
+        },
+        {
+          "task_id": 1103,
+          "task_name": "Investment thesis narrative formulation",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.8,
+          "social_interaction": 2.0,
+          "creativity": 3.0,
+          "technical_complexity": 3.5,
+          "ai_exposure_score": 0.26
+        },
+        {
+          "task_id": 1104,
+          "task_name": "Client advisory consultation",
+          "ai_replaceability": 0.6,
+          "human_judgement": 3.8,
+          "social_interaction": 3.8,
+          "creativity": 2.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.14
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S01",
+          "skill_name": "Python",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 45
+        },
+        {
+          "skill_id": "S02",
+          "skill_name": "SQL",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 65
+        },
+        {
+          "skill_id": "S17",
+          "skill_name": "Excel / Spreadsheet Modeling",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 92
+        },
+        {
+          "skill_id": "S24",
+          "skill_name": "Financial Modeling (DCF)",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 78
+        },
+        {
+          "skill_id": "S25",
+          "skill_name": "Data Storytelling & Executive Pitching",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 70
+        },
+        {
+          "skill_id": "S21",
+          "skill_name": "AI-Assisted Summarization & Reporting",
+          "category": "AI Readiness",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 50
+        }
+      ]
+    },
+    "12": {
+      "occupation_id": 12,
+      "occupation": "Accounting Associate",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.65,
+      "human_judgement_avg": 1.7,
+      "social_interaction_avg": 0.93,
+      "tasks": [
+        {
+          "task_id": 1201,
+          "task_name": "Invoice reconciliation",
+          "ai_replaceability": 3.8,
+          "human_judgement": 0.6,
+          "social_interaction": 0.8,
+          "creativity": 0.2,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.85
+        },
+        {
+          "task_id": 1202,
+          "task_name": "General ledger journal entries",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 1203,
+          "task_name": "Tax audit anomaly investigation",
+          "ai_replaceability": 1.5,
+          "human_judgement": 3.5,
+          "social_interaction": 1.5,
+          "creativity": 1.8,
+          "technical_complexity": 3.5,
+          "ai_exposure_score": 0.32
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "17",
+          "skill_name": "Excel / Spreadsheet Modeling",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 90
+        },
+        {
+          "skill_id": "S26",
+          "skill_name": "Accounting Standards (Tally/GST)",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 82
+        },
+        {
+          "skill_id": "S27",
+          "skill_name": "Audit Trail Reconciliation",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 60
+        }
+      ]
+    },
+    "13": {
+      "occupation_id": 13,
+      "occupation": "Audit Analyst",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.46,
+      "human_judgement_avg": 2.6,
+      "social_interaction_avg": 2.13,
+      "tasks": [
+        {
+          "task_id": 1301,
+          "task_name": "Sampling financial transactions",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.2,
+          "social_interaction": 0.8,
+          "creativity": 0.5,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 1302,
+          "task_name": "Internal control testing verification",
+          "ai_replaceability": 2.2,
+          "human_judgement": 2.8,
+          "social_interaction": 1.8,
+          "creativity": 1.5,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.48
+        },
+        {
+          "task_id": 1303,
+          "task_name": "Executive audit closing meetings",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.8,
+          "social_interaction": 3.8,
+          "creativity": 2.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.12
+        }
+      ],
+      "skills": []
+    },
+    "14": {
+      "occupation_id": 14,
+      "occupation": "Wealth Management Associate",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.43,
+      "human_judgement_avg": 2.55,
+      "social_interaction_avg": 2.4,
+      "tasks": [
+        {
+          "task_id": 1401,
+          "task_name": "Portfolio performance snapshot generation",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.2,
+          "social_interaction": 0.8,
+          "creativity": 0.8,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.76
+        },
+        {
+          "task_id": 1402,
+          "task_name": "High net-worth client relationship building",
+          "ai_replaceability": 0.4,
+          "human_judgement": 3.9,
+          "social_interaction": 4.0,
+          "creativity": 2.8,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.1
+        }
+      ],
+      "skills": []
+    },
+    "15": {
+      "occupation_id": 15,
+      "occupation": "Tax Analyst",
+      "sector": "Finance",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "human_judgement_avg": 2.4,
+      "social_interaction_avg": 1.0,
+      "tasks": [
+        {
+          "task_id": 1501,
+          "task_name": "Tax return data entry & verification",
+          "ai_replaceability": 3.6,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 1502,
+          "task_name": "Complex international tax structuring",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.8,
+          "social_interaction": 1.5,
+          "creativity": 2.5,
+          "technical_complexity": 4.0,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "16": {
+      "occupation_id": 16,
+      "occupation": "Digital Marketing Executive",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.6,
+      "human_judgement_avg": 1.95,
+      "social_interaction_avg": 1.65,
+      "tasks": [
+        {
+          "task_id": 1601,
+          "task_name": "Social media caption & copy generation",
+          "ai_replaceability": 3.6,
+          "human_judgement": 1.0,
+          "social_interaction": 1.2,
+          "creativity": 2.5,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 1602,
+          "task_name": "A/B ad variant copy generation",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.2,
+          "social_interaction": 1.0,
+          "creativity": 2.2,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 1603,
+          "task_name": "Campaign performance metric parsing",
+          "ai_replaceability": 3.0,
+          "human_judgement": 1.8,
+          "social_interaction": 1.2,
+          "creativity": 1.5,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.65
+        },
+        {
+          "task_id": 1604,
+          "task_name": "Brand positioning strategy",
+          "ai_replaceability": 0.8,
+          "human_judgement": 3.8,
+          "social_interaction": 3.2,
+          "creativity": 3.8,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.18
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S18",
+          "skill_name": "Power BI / Data Visualization",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 45
+        },
+        {
+          "skill_id": "S28",
+          "skill_name": "SEO & Keyword Research",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 78
+        },
+        {
+          "skill_id": "S29",
+          "skill_name": "Generative AI Prompting (Copy & Visuals)",
+          "category": "AI Readiness",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 75
+        },
+        {
+          "skill_id": "S30",
+          "skill_name": "Campaign Analytics",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 80
+        },
+        {
+          "skill_id": "S31",
+          "skill_name": "Brand Positioning & Strategy",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 72
+        },
+        {
+          "skill_id": "S32",
+          "skill_name": "Persuasive Communication",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 85
+        }
+      ]
+    },
+    "17": {
+      "occupation_id": 17,
+      "occupation": "Content Specialist",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.61,
+      "human_judgement_avg": 1.9,
+      "social_interaction_avg": 1.1,
+      "tasks": [
+        {
+          "task_id": 1701,
+          "task_name": "First-draft blog post outline creation",
+          "ai_replaceability": 3.7,
+          "human_judgement": 0.8,
+          "social_interaction": 0.8,
+          "creativity": 2.0,
+          "technical_complexity": 1.2,
+          "ai_exposure_score": 0.82
+        },
+        {
+          "task_id": 1702,
+          "task_name": "SEO keyword density optimization",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 1.0,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 1703,
+          "task_name": "Editorial tone & voice curation",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.9,
+          "social_interaction": 2.0,
+          "creativity": 3.9,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.22
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S29",
+          "skill_name": "Generative AI Prompting (Copy & Visuals)",
+          "category": "AI Readiness",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 80
+        },
+        {
+          "skill_id": "S33",
+          "skill_name": "Editorial Tone & Fact Verification",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 75
+        },
+        {
+          "skill_id": "S32",
+          "skill_name": "Persuasive Communication",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 82
+        }
+      ]
+    },
+    "18": {
+      "occupation_id": 18,
+      "occupation": "Social Media Analyst",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.54,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 1.65,
+      "tasks": [
+        {
+          "task_id": 1801,
+          "task_name": "Sentiment analysis report aggregation",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.2,
+          "social_interaction": 0.8,
+          "creativity": 1.2,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.75
+        },
+        {
+          "task_id": 1802,
+          "task_name": "Real-time trend narrative spotting",
+          "ai_replaceability": 1.5,
+          "human_judgement": 3.2,
+          "social_interaction": 2.5,
+          "creativity": 3.2,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.32
+        }
+      ],
+      "skills": []
+    },
+    "19": {
+      "occupation_id": 19,
+      "occupation": "SEO Specialist",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "human_judgement_avg": 2.25,
+      "social_interaction_avg": 1.25,
+      "tasks": [
+        {
+          "task_id": 1901,
+          "task_name": "Backlink profile audit script execution",
+          "ai_replaceability": 3.6,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 0.8,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 1902,
+          "task_name": "Search intent content strategy",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.5,
+          "social_interaction": 2.0,
+          "creativity": 3.0,
+          "technical_complexity": 2.8,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "20": {
+      "occupation_id": 20,
+      "occupation": "Performance Marketing Associate",
+      "sector": "Marketing",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "human_judgement_avg": 2.55,
+      "social_interaction_avg": 1.65,
+      "tasks": [
+        {
+          "task_id": 2001,
+          "task_name": "Ad bid automation monitoring",
+          "ai_replaceability": 3.2,
+          "human_judgement": 1.5,
+          "social_interaction": 0.8,
+          "creativity": 1.2,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.7
+        },
+        {
+          "task_id": 2002,
+          "task_name": "Creative campaign concept testing",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.6,
+          "social_interaction": 2.5,
+          "creativity": 3.8,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "21": {
+      "occupation_id": 21,
+      "occupation": "HR Associate",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.45,
+      "human_judgement_avg": 2.42,
+      "social_interaction_avg": 2.75,
+      "tasks": [
+        {
+          "task_id": 2101,
+          "task_name": "Resume keyword parsing & filter screening",
+          "ai_replaceability": 3.6,
+          "human_judgement": 1.0,
+          "social_interaction": 1.0,
+          "creativity": 0.5,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 2102,
+          "task_name": "Interview scheduling coordination",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 2.0,
+          "creativity": 0.5,
+          "technical_complexity": 1.2,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 2103,
+          "task_name": "Conducting behavioral interviews",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.8,
+          "social_interaction": 4.0,
+          "creativity": 2.5,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.12
+        },
+        {
+          "task_id": 2104,
+          "task_name": "Employee grievance resolution",
+          "ai_replaceability": 0.4,
+          "human_judgement": 3.9,
+          "social_interaction": 4.0,
+          "creativity": 2.8,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.1
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S17",
+          "skill_name": "Excel / Spreadsheet Modeling",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 70
+        },
+        {
+          "skill_id": "S34",
+          "skill_name": "Applicant Tracking Systems (ATS)",
+          "category": "Technical",
+          "importance": "Medium",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 65
+        },
+        {
+          "skill_id": "S35",
+          "skill_name": "Behavioral Interviewing",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 88
+        },
+        {
+          "skill_id": "S36",
+          "skill_name": "Conflict Resolution & Empathy",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 90
+        },
+        {
+          "skill_id": "S37",
+          "skill_name": "AI-Assisted Candidate Sourcing",
+          "category": "AI Readiness",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 55
+        }
+      ]
+    },
+    "22": {
+      "occupation_id": 22,
+      "occupation": "Recruitment Coordinator",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.45,
+      "human_judgement_avg": 2.4,
+      "social_interaction_avg": 2.75,
+      "tasks": [
+        {
+          "task_id": 2201,
+          "task_name": "Drafting candidate outreach emails",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 1.5,
+          "creativity": 1.2,
+          "technical_complexity": 1.2,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 2202,
+          "task_name": "Candidate relationship building",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.8,
+          "social_interaction": 4.0,
+          "creativity": 2.2,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.12
+        }
+      ],
+      "skills": []
+    },
+    "23": {
+      "occupation_id": 23,
+      "occupation": "People Operations Associate",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.52,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.5,
+      "tasks": [
+        {
+          "task_id": 2301,
+          "task_name": "Onboarding document verification",
+          "ai_replaceability": 3.7,
+          "human_judgement": 0.8,
+          "social_interaction": 1.2,
+          "creativity": 0.5,
+          "technical_complexity": 1.2,
+          "ai_exposure_score": 0.82
+        },
+        {
+          "task_id": 2302,
+          "task_name": "Company culture initiative design",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.6,
+          "social_interaction": 3.8,
+          "creativity": 3.2,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.22
+        }
+      ],
+      "skills": []
+    },
+    "24": {
+      "occupation_id": 24,
+      "occupation": "L&D Coordinator",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.53,
+      "human_judgement_avg": 2.2,
+      "social_interaction_avg": 2.0,
+      "tasks": [
+        {
+          "task_id": 2401,
+          "task_name": "Training completion tracking",
+          "ai_replaceability": 3.6,
+          "human_judgement": 0.8,
+          "social_interaction": 1.0,
+          "creativity": 0.5,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 2402,
+          "task_name": "Skill curriculum needs assessment",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.6,
+          "social_interaction": 3.0,
+          "creativity": 3.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "25": {
+      "occupation_id": 25,
+      "occupation": "Compensation & Benefits Assistant",
+      "sector": "HR",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.65,
+      "human_judgement_avg": 1.8,
+      "social_interaction_avg": 1.0,
+      "tasks": [
+        {
+          "task_id": 2501,
+          "task_name": "Payroll spreadsheet reconciliation",
+          "ai_replaceability": 3.7,
+          "human_judgement": 0.8,
+          "social_interaction": 0.5,
+          "creativity": 0.2,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.82
+        },
+        {
+          "task_id": 2502,
+          "task_name": "Market compensation benchmark analysis",
+          "ai_replaceability": 2.2,
+          "human_judgement": 2.8,
+          "social_interaction": 1.5,
+          "creativity": 1.8,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.48
+        }
+      ],
+      "skills": []
+    },
+    "26": {
+      "occupation_id": 26,
+      "occupation": "Customer Support Specialist",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.51,
+      "human_judgement_avg": 2.23,
+      "social_interaction_avg": 2.23,
+      "tasks": [
+        {
+          "task_id": 2601,
+          "task_name": "Answering tier-1 repetitive FAQs",
+          "ai_replaceability": 3.8,
+          "human_judgement": 0.6,
+          "social_interaction": 1.2,
+          "creativity": 0.5,
+          "technical_complexity": 1.0,
+          "ai_exposure_score": 0.85
+        },
+        {
+          "task_id": 2602,
+          "task_name": "Ticket categorization & tag assignment",
+          "ai_replaceability": 3.7,
+          "human_judgement": 0.8,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 1.2,
+          "ai_exposure_score": 0.82
+        },
+        {
+          "task_id": 2603,
+          "task_name": "De-escalating angry customer calls",
+          "ai_replaceability": 0.4,
+          "human_judgement": 3.9,
+          "social_interaction": 4.0,
+          "creativity": 2.5,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.1
+        },
+        {
+          "task_id": 2604,
+          "task_name": "Complex troubleshooting consultation",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.6,
+          "social_interaction": 3.2,
+          "creativity": 2.5,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S38",
+          "skill_name": "CRM Tools (Zendesk/Salesforce)",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 80
+        },
+        {
+          "skill_id": "S39",
+          "skill_name": "Customer Empathy & Active Listening",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 92
+        },
+        {
+          "skill_id": "S40",
+          "skill_name": "De-escalation & Negotiation",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 85
+        },
+        {
+          "skill_id": "S41",
+          "skill_name": "AI Copilot Support Navigation",
+          "category": "AI Readiness",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 60
+        }
+      ]
+    },
+    "27": {
+      "occupation_id": 27,
+      "occupation": "Client Service Associate",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.43,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 2.75,
+      "tasks": [
+        {
+          "task_id": 2701,
+          "task_name": "Generating monthly account status summaries",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.2,
+          "social_interaction": 1.5,
+          "creativity": 0.8,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.75
+        },
+        {
+          "task_id": 2702,
+          "task_name": "Client retention & quarterly reviews",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.8,
+          "social_interaction": 4.0,
+          "creativity": 2.8,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.12
+        }
+      ],
+      "skills": []
+    },
+    "28": {
+      "occupation_id": 28,
+      "occupation": "Technical Support Representative",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.49,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 2.1,
+      "tasks": [
+        {
+          "task_id": 2801,
+          "task_name": "Log file pattern error lookup",
+          "ai_replaceability": 3.3,
+          "human_judgement": 1.5,
+          "social_interaction": 1.0,
+          "creativity": 1.0,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.72
+        },
+        {
+          "task_id": 2802,
+          "task_name": "Live screen sharing bug reproduction",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.5,
+          "social_interaction": 3.2,
+          "creativity": 2.0,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "29": {
+      "occupation_id": 29,
+      "occupation": "Operations Analyst",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.54,
+      "human_judgement_avg": 2.3,
+      "social_interaction_avg": 1.5,
+      "tasks": [
+        {
+          "task_id": 2901,
+          "task_name": "SLA violation metric aggregation",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.8,
+          "creativity": 0.8,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 2902,
+          "task_name": "Support workflow optimization recommendations",
+          "ai_replaceability": 1.4,
+          "human_judgement": 3.6,
+          "social_interaction": 2.2,
+          "creativity": 2.8,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.3
+        }
+      ],
+      "skills": []
+    },
+    "30": {
+      "occupation_id": 30,
+      "occupation": "Customer Success Associate",
+      "sector": "Customer Operations",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.42,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 2.85,
+      "tasks": [
+        {
+          "task_id": 3001,
+          "task_name": "Product adoption onboarding emails",
+          "ai_replaceability": 3.3,
+          "human_judgement": 1.2,
+          "social_interaction": 1.8,
+          "creativity": 1.2,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.73
+        },
+        {
+          "task_id": 3002,
+          "task_name": "Executive quarterly business reviews",
+          "ai_replaceability": 0.5,
+          "human_judgement": 3.8,
+          "social_interaction": 3.9,
+          "creativity": 2.8,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.12
+        }
+      ],
+      "skills": []
+    },
+    "31": {
+      "occupation_id": 31,
+      "occupation": "Junior Data Analyst",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.47,
+      "human_judgement_avg": 2.6,
+      "social_interaction_avg": 1.92,
+      "tasks": [
+        {
+          "task_id": 3101,
+          "task_name": "Data cleaning & missing value imputation",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.5,
+          "social_interaction": 0.5,
+          "creativity": 1.0,
+          "technical_complexity": 2.8,
+          "ai_exposure_score": 0.75
+        },
+        {
+          "task_id": 3102,
+          "task_name": "Writing routine SQL queries",
+          "ai_replaceability": 3.0,
+          "human_judgement": 1.8,
+          "social_interaction": 0.8,
+          "creativity": 1.2,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.66
+        },
+        {
+          "task_id": 3103,
+          "task_name": "Standard dashboard template generation",
+          "ai_replaceability": 2.8,
+          "human_judgement": 2.0,
+          "social_interaction": 1.0,
+          "creativity": 1.8,
+          "technical_complexity": 2.8,
+          "ai_exposure_score": 0.6
+        },
+        {
+          "task_id": 3104,
+          "task_name": "Translating data into business story narratives",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.9,
+          "social_interaction": 3.5,
+          "creativity": 3.5,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.22
+        },
+        {
+          "task_id": 3105,
+          "task_name": "Explaining findings to business stakeholders",
+          "ai_replaceability": 0.6,
+          "human_judgement": 3.8,
+          "social_interaction": 3.8,
+          "creativity": 2.8,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.14
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S01",
+          "skill_name": "Python",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 80
+        },
+        {
+          "skill_id": "S02",
+          "skill_name": "SQL",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 92
+        },
+        {
+          "skill_id": "S17",
+          "skill_name": "Excel / Spreadsheet Modeling",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 85
+        },
+        {
+          "skill_id": "S18",
+          "skill_name": "Power BI / Data Visualization",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 84
+        },
+        {
+          "skill_id": "S25",
+          "skill_name": "Data Storytelling & Executive Pitching",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 78
+        },
+        {
+          "skill_id": "S42",
+          "skill_name": "AI-Assisted Analytics (Code Interpreter)",
+          "category": "AI Readiness",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 70
+        },
+        {
+          "skill_id": "S43",
+          "skill_name": "Critical Business Reasoning",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 86
+        }
+      ]
+    },
+    "32": {
+      "occupation_id": 32,
+      "occupation": "Reporting Analyst",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.68,
+      "human_judgement_avg": 1.5,
+      "social_interaction_avg": 0.75,
+      "tasks": [
+        {
+          "task_id": 3201,
+          "task_name": "Weekly PDF report compilation",
+          "ai_replaceability": 3.7,
+          "human_judgement": 0.8,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.82
+        },
+        {
+          "task_id": 3202,
+          "task_name": "Automated report trigger pipeline setup",
+          "ai_replaceability": 2.5,
+          "human_judgement": 2.2,
+          "social_interaction": 1.0,
+          "creativity": 1.5,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.54
+        }
+      ],
+      "skills": []
+    },
+    "33": {
+      "occupation_id": 33,
+      "occupation": "Data Operations Associate",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.6,
+      "human_judgement_avg": 2.0,
+      "social_interaction_avg": 1.15,
+      "tasks": [
+        {
+          "task_id": 3301,
+          "task_name": "Data entry pipeline monitoring",
+          "ai_replaceability": 3.6,
+          "human_judgement": 0.8,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.8
+        },
+        {
+          "task_id": 3302,
+          "task_name": "Data quality governance auditing",
+          "ai_replaceability": 1.8,
+          "human_judgement": 3.2,
+          "social_interaction": 1.8,
+          "creativity": 1.8,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.4
+        }
+      ],
+      "skills": []
+    },
+    "34": {
+      "occupation_id": 34,
+      "occupation": "Business Intelligence Assistant",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "human_judgement_avg": 2.5,
+      "social_interaction_avg": 1.85,
+      "tasks": [
+        {
+          "task_id": 3401,
+          "task_name": "ETL job log parsing",
+          "ai_replaceability": 3.4,
+          "human_judgement": 1.2,
+          "social_interaction": 0.5,
+          "creativity": 0.8,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.75
+        },
+        {
+          "task_id": 3402,
+          "task_name": "Executive decision dashboard storytelling",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.8,
+          "social_interaction": 3.2,
+          "creativity": 3.5,
+          "technical_complexity": 3.2,
+          "ai_exposure_score": 0.22
+        }
+      ],
+      "skills": []
+    },
+    "35": {
+      "occupation_id": 35,
+      "occupation": "Database Administrator Assistant",
+      "sector": "Data",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.52,
+      "human_judgement_avg": 2.4,
+      "social_interaction_avg": 1.15,
+      "tasks": [
+        {
+          "task_id": 3501,
+          "task_name": "Database index maintenance script execution",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.5,
+          "creativity": 0.5,
+          "technical_complexity": 2.8,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 3502,
+          "task_name": "Disaster recovery architecture planning",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.8,
+          "social_interaction": 1.8,
+          "creativity": 2.5,
+          "technical_complexity": 4.0,
+          "ai_exposure_score": 0.26
+        }
+      ],
+      "skills": []
+    },
+    "36": {
+      "occupation_id": 36,
+      "occupation": "UI/UX Designer",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.4,
+      "human_judgement_avg": 2.92,
+      "social_interaction_avg": 2.5,
+      "tasks": [
+        {
+          "task_id": 3601,
+          "task_name": "Generating UI layout variation concepts",
+          "ai_replaceability": 3.0,
+          "human_judgement": 1.8,
+          "social_interaction": 1.2,
+          "creativity": 3.0,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.65
+        },
+        {
+          "task_id": 3602,
+          "task_name": "User research interview synthesis",
+          "ai_replaceability": 1.2,
+          "human_judgement": 3.6,
+          "social_interaction": 3.8,
+          "creativity": 2.8,
+          "technical_complexity": 2.2,
+          "ai_exposure_score": 0.26
+        },
+        {
+          "task_id": 3603,
+          "task_name": "Empathy mapping & user persona creation",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.8,
+          "social_interaction": 3.5,
+          "creativity": 3.6,
+          "technical_complexity": 2.0,
+          "ai_exposure_score": 0.22
+        },
+        {
+          "task_id": 3604,
+          "task_name": "Design system component tokenization",
+          "ai_replaceability": 2.2,
+          "human_judgement": 2.5,
+          "social_interaction": 1.5,
+          "creativity": 2.5,
+          "technical_complexity": 3.0,
+          "ai_exposure_score": 0.48
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": "S44",
+          "skill_name": "Figma / Design Tools",
+          "category": "Technical",
+          "importance": "High",
+          "future_trend": "Stable",
+          "employer_demand_frequency": 92
+        },
+        {
+          "skill_id": "S45",
+          "skill_name": "User Research & Empathy Mapping",
+          "category": "Human",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 88
+        },
+        {
+          "skill_id": "S46",
+          "skill_name": "Design System Architecture",
+          "category": "Cognitive",
+          "importance": "High",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 75
+        },
+        {
+          "skill_id": "S47",
+          "skill_name": "Generative AI Design Exploration",
+          "category": "AI Readiness",
+          "importance": "Medium",
+          "future_trend": "Growing",
+          "employer_demand_frequency": 60
+        }
+      ]
+    },
+    "37": {
+      "occupation_id": 37,
+      "occupation": "Graphic Design Associate",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "human_judgement_avg": 2.45,
+      "social_interaction_avg": 1.65,
+      "tasks": [
+        {
+          "task_id": 3701,
+          "task_name": "Social media banner image generation",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 0.8,
+          "creativity": 2.8,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 3702,
+          "task_name": "Brand identity direction & narrative",
+          "ai_replaceability": 0.8,
+          "human_judgement": 3.9,
+          "social_interaction": 2.5,
+          "creativity": 4.0,
+          "technical_complexity": 1.8,
+          "ai_exposure_score": 0.18
+        }
+      ],
+      "skills": []
+    },
+    "38": {
+      "occupation_id": 38,
+      "occupation": "Copywriter",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.48,
+      "human_judgement_avg": 2.45,
+      "social_interaction_avg": 1.6,
+      "tasks": [
+        {
+          "task_id": 3801,
+          "task_name": "First draft advertising tagline ideas",
+          "ai_replaceability": 3.5,
+          "human_judgement": 1.0,
+          "social_interaction": 1.0,
+          "creativity": 3.0,
+          "technical_complexity": 1.2,
+          "ai_exposure_score": 0.78
+        },
+        {
+          "task_id": 3802,
+          "task_name": "Nuanced brand voice storytelling",
+          "ai_replaceability": 0.8,
+          "human_judgement": 3.9,
+          "social_interaction": 2.2,
+          "creativity": 4.0,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.18
+        }
+      ],
+      "skills": []
+    },
+    "39": {
+      "occupation_id": 39,
+      "occupation": "Motion Designer",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.43,
+      "human_judgement_avg": 2.8,
+      "social_interaction_avg": 1.5,
+      "tasks": [
+        {
+          "task_id": 3901,
+          "task_name": "Basic keyframe interpolation rendering",
+          "ai_replaceability": 3.0,
+          "human_judgement": 1.8,
+          "social_interaction": 0.8,
+          "creativity": 2.8,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.65
+        },
+        {
+          "task_id": 3902,
+          "task_name": "Storyboarding complex visual narratives",
+          "ai_replaceability": 1.0,
+          "human_judgement": 3.8,
+          "social_interaction": 2.2,
+          "creativity": 3.9,
+          "technical_complexity": 2.5,
+          "ai_exposure_score": 0.22
+        }
+      ],
+      "skills": []
+    },
+    "40": {
+      "occupation_id": 40,
+      "occupation": "Brand Content Creator",
+      "sector": "Design/Creative",
+      "ai_exposure_level": "Medium",
+      "average_ai_exposure": 0.4,
+      "human_judgement_avg": 2.55,
+      "social_interaction_avg": 2.75,
+      "tasks": [
+        {
+          "task_id": 4001,
+          "task_name": "Short-form video script generation",
+          "ai_replaceability": 3.3,
+          "human_judgement": 1.2,
+          "social_interaction": 1.5,
+          "creativity": 3.0,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.73
+        },
+        {
+          "task_id": 4002,
+          "task_name": "On-camera authentic video presentation",
+          "ai_replaceability": 0.3,
+          "human_judgement": 3.9,
+          "social_interaction": 4.0,
+          "creativity": 3.5,
+          "technical_complexity": 1.5,
+          "ai_exposure_score": 0.08
+        }
+      ],
+      "skills": []
+    }
+  },
+  "statistics": {
+    "total_jobs_analyzed": 40,
+    "total_sectors": 8,
+    "total_tasks_analyzed": 113,
+    "unique_skills_mapped": 48,
+    "graduate_survey_responses": 20,
+    "sectors": [
+      "Data",
+      "Technology",
+      "Business",
+      "HR",
+      "Design/Creative",
+      "Customer Operations",
+      "Marketing",
+      "Finance"
+    ],
+    "sector_exposure": [
+      {
+        "sector": "Business",
+        "ai_exposure_score": 0.46
+      },
+      {
+        "sector": "Customer Operations",
+        "ai_exposure_score": 0.48
+      },
+      {
+        "sector": "Data",
+        "ai_exposure_score": 0.53
+      },
+      {
+        "sector": "Design/Creative",
+        "ai_exposure_score": 0.43
+      },
+      {
+        "sector": "Finance",
+        "ai_exposure_score": 0.5
+      },
+      {
+        "sector": "HR",
+        "ai_exposure_score": 0.51
+      },
+      {
+        "sector": "Marketing",
+        "ai_exposure_score": 0.56
+      },
+      {
+        "sector": "Technology",
+        "ai_exposure_score": 0.51
+      }
+    ]
+  },
+  "skill_gap_matrix": {
+    "priority_gaps": [
+      {
+        "skill": "SQL & Database Querying",
+        "employer_demand": 88,
+        "graduate_proficiency": 34,
+        "future_importance": 92,
+        "category": "Technical",
+        "verdict": "Critical Priority Gap"
+      },
+      {
+        "skill": "AI-Assisted Workflow & Verification",
+        "employer_demand": 75,
+        "graduate_proficiency": 42,
+        "future_importance": 95,
+        "category": "AI Readiness",
+        "verdict": "Emerging Priority Gap"
+      },
+      {
+        "skill": "Data Storytelling & Executive Pitching",
+        "employer_demand": 82,
+        "graduate_proficiency": 48,
+        "future_importance": 89,
+        "category": "Human",
+        "verdict": "Priority Human Skill Gap"
+      },
+      {
+        "skill": "System Architecture & Security Audit",
+        "employer_demand": 68,
+        "graduate_proficiency": 28,
+        "future_importance": 85,
+        "category": "Cognitive",
+        "verdict": "Technical Specialization Gap"
+      }
+    ],
+    "growing_skills": [
+      {
+        "name": "AI Tool Prompting & Verification",
+        "growth_percent": 142
+      },
+      {
+        "name": "Data Analysis & SQL",
+        "growth_percent": 88
+      },
+      {
+        "name": "Critical Problem Decomposition",
+        "growth_percent": 76
+      },
+      {
+        "name": "Cross-Functional Negotiation",
+        "growth_percent": 64
+      },
+      {
+        "name": "System Architecture & Security",
+        "growth_percent": 58
+      }
+    ],
+    "declining_routine_skills": [
+      {
+        "name": "Manual Data Entry & Formatting",
+        "decline_percent": -78
+      },
+      {
+        "name": "Basic Scripted Customer Support",
+        "decline_percent": -65
+      },
+      {
+        "name": "Routine Test Script Execution",
+        "decline_percent": -54
+      },
+      {
+        "name": "Standard Document Copy Generation",
+        "decline_percent": -48
+      }
+    ]
+  },
+  "assessment_questions": [
+    {
+      "id": "q1",
+      "category": "Technical",
+      "skill": "Data Analysis & SQL",
+      "question": "You receive a raw dataset containing 20,000 customer records with missing values and duplicate emails. What would you feel comfortable doing?",
+      "options": [
+        {
+          "label": "I wouldn't know where to begin.",
+          "score": 20
+        },
+        {
+          "label": "I could filter and remove basic duplicates in Excel.",
+          "score": 40
+        },
+        {
+          "label": "I could write SQL scripts to clean, deduplicate, and aggregate the dataset.",
+          "score": 75
+        },
+        {
+          "label": "I could analyze the dataset, write SQL queries, and present actionable business recommendations.",
+          "score": 90
+        },
+        {
+          "label": "I could construct an automated Python/SQL pipeline with data validation checks.",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "category": "AI Readiness",
+      "skill": "AI Tool Prompting & Verification",
+      "question": "When using AI coding or writing tools (e.g. ChatGPT, GitHub Copilot) for a project, what is your standard approach?",
+      "options": [
+        {
+          "label": "I rarely use AI tools for my work.",
+          "score": 20
+        },
+        {
+          "label": "I copy and paste AI responses directly into my work without checking.",
+          "score": 40
+        },
+        {
+          "label": "I use structured prompts and review the output for obvious errors.",
+          "score": 70
+        },
+        {
+          "label": "I systematically test AI-generated code, verify facts, and refactor for performance.",
+          "score": 90
+        },
+        {
+          "label": "I design complex prompt chains, build custom AI workflows, and audit security vulnerabilities.",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "category": "Human",
+      "skill": "Business Communication & Storytelling",
+      "question": "You discover a key operational bottleneck that costs the team 10 hours a week. How do you communicate this to leadership?",
+      "options": [
+        {
+          "label": "I would mention it casually to a peer.",
+          "score": 20
+        },
+        {
+          "label": "I would send a quick summary email listing the raw issues.",
+          "score": 50
+        },
+        {
+          "label": "I would create a clear visual presentation highlighting the issue and cost impact.",
+          "score": 75
+        },
+        {
+          "label": "I would present the findings with visual data evidence, proposed solutions, and ROI estimates.",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "category": "Cognitive",
+      "skill": "Analytical Thinking & Problem Decomposition",
+      "question": "When tasked with building a complex system or feature without clear documentation, how do you proceed?",
+      "options": [
+        {
+          "label": "I wait for step-by-step instructions from a supervisor.",
+          "score": 20
+        },
+        {
+          "label": "I search online for pre-made templates and copy them.",
+          "score": 45
+        },
+        {
+          "label": "I break the problem down into smaller sub-tasks and solve them incrementally.",
+          "score": 80
+        },
+        {
+          "label": "I interview stakeholders, decompose requirements, evaluate trade-offs, and design a modular plan.",
+          "score": 98
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "category": "Technical",
+      "skill": "Python & Automation",
+      "question": "How proficient are you in using Python for task automation or analytical scripts?",
+      "options": [
+        {
+          "label": "No experience with Python.",
+          "score": 10
+        },
+        {
+          "label": "I know basic syntax (variables, loops, print statements).",
+          "score": 40
+        },
+        {
+          "label": "I can write scripts using Pandas, NumPy, or REST APIs.",
+          "score": 75
+        },
+        {
+          "label": "I can build complete web backends, data pipelines, and automated test suites.",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "category": "Human",
+      "skill": "Empathy & Conflict Resolution",
+      "question": "An unhappy client escalates a major issue caused by a teammate's oversight. How do you handle the conversation?",
+      "options": [
+        {
+          "label": "Blame the teammate directly to protect my reputation.",
+          "score": 10
+        },
+        {
+          "label": "Transfer the call immediately to a manager.",
+          "score": 40
+        },
+        {
+          "label": "Listen actively, apologize for the friction, and commit to a clear resolution timeline.",
+          "score": 80
+        },
+        {
+          "label": "De-escalate with active empathy, take ownership on behalf of the team, resolve the root cause, and follow up.",
+          "score": 100
+        }
+      ]
+    }
+  ],
+  "suggested_questions": [
+    "Why is SQL recommended as a priority skill gap?",
+    "What does AI Task Exposure mean for entry-level work?",
+    "Why was Junior Data Analyst recommended as my top match?",
+    "What skills are growing fastest according to WEF 2025?"
+  ]
+}
